@@ -56,6 +56,7 @@ Los mejores resultados (AUC = 0.8262, accuracy = 0.8188, recall = 0.5678, precis
 
 ## Autores
 Guillermo Varela Carbajal
+
 Raquel Gosálbez Sirvent
 
 ## Licencia
